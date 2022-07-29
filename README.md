@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sadman Sakib
-- 👀 I’m interested in business, tech, data analysis and UX design
-- 🌱 I’m currently learning data analysis with SQL and Tableau
-- 💞️ I’m looking to collaborate on any project that would help me learn data analysis or UX design
+- 👀 I’m interested in business, tech, data analysis and product
+- 🌱 I’m currently learning data analysis with SQL, Tableau and Python.
+- 💞️ I’m looking to collaborate on any project that would help me learn data analysis or applied statistics!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sadman-sakib-pantho/), [email](sadmanpantho99@gmail.com)
 
 <!---
